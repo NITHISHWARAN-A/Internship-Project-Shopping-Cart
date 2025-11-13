@@ -67,39 +67,32 @@ It is developed using **Java, JSP, Servlets, HTML, CSS, JavaScript, and JDBC**, 
 
 ---
 
-## 📸 Screenshots (Recommended Order)
-1. Homepage / Landing Page  
-2. User Registration Page  
-3. User Login Page  
-4. Product Listing Page  
-5. Product Details Page  
-6. Wishlist Page  
-7. Shopping Cart Page  
-8. Checkout Page  
-9. Order Confirmation Page  
-10. User Profile Page  
-11. Admin Login Page  
-12. Admin Dashboard  
-13. Manage Categories Page  
-14. Manage Products Page  
-15. View Orders Page  
-16. Manage Users Page  
-17. Email Notification Example  
-
-> 🖼️ *SCREENSHOT*
+## 📸 SCREENSHOTS
+  
+1. User Registration Page
  ![Register Form](https://github.com/user-attachments/assets/9b8c7bf5-eb08-42d4-a2a7-e5907d723782)
 
 
+
+2. User Login Page 
 ![Login Form](https://github.com/user-attachments/assets/8e10b455-342f-4de0-bf2f-5cffff4e0596)
 
 
+
+3. Product Listing Page 
 ![Product Page](https://github.com/user-attachments/assets/59611245-f98b-496b-b65b-4a0e67c4eda1)
 
 
+
+4. User Profile Page 
 ![User Profile Details](https://github.com/user-attachments/assets/60d8bcae-4a3c-4919-810a-08a9cd28e8c3)
 
 
+
+5. View Orders Page 
 ![Order Detail Page](https://github.com/user-attachments/assets/5129987e-dfba-4282-9025-146e3108e419)
+
+
 
 ---
 
