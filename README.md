@@ -1,7 +1,7 @@
-# Internship-Project-Shopping-Cart
-Qspider Internship E-Commerce Project
 
-# 🛍️ Online Shopping Platform (E-Commerce Website)
+# 🛍️ Internship Project – Online Shopping Platform
+### Qspider Internship | Java Full Stack | E-Commerce Web Application
+
 
 ## 📖 About
 Welcome to the **E-Commerce Website Project!**  
@@ -104,6 +104,7 @@ It is developed using **Java, JSP, Servlets, HTML, CSS, JavaScript, and JDBC**, 
 5. Import the provided `.sql` file into MySQL Workbench.  
 6. Add all the required `.jar` files to `WEB-INF/lib`.  
 7. Run the project on Tomcat and open:
+     http://localhost:8080/shopping-cart/
 8. Register a new user and explore the features.
 
 ---
